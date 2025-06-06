@@ -1,0 +1,35 @@
+{
+  "name": "communityhealthdao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadilibrah/CommunityHealthDAO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aadilibrah/CommunityHealthDAO/issues"
+  },
+  "homepage": "https://github.com/aadilibrah/CommunityHealthDAO#readme",
+  "dependencies": {
+    "lucide-react": "^0.x.x",
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.x.x",
+    "autoprefixer": "^10.x.x",
+    "postcss": "^8.x.x",
+    "tailwindcss": "^3.x.x",
+    "vite": "^4.x.x"
+  }
+}
